@@ -1,0 +1,40 @@
+.foto1 {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 3px #BB99DD;  
+}
+.box {
+    padding: 50px;
+    color: #BB99DD;
+    text-align: center;
+  }
+
+ body {
+    font-family: 'Poppins', sans-serif;
+    color:  #BB99DD;
+    background-color: rgb(250,248,253);
+    
+ }
+
+ .link1 {
+    font-weight: 600;
+    border:1px solid;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 3px; /* arredonda as bordas dos links */
+    margin-bottom: 15px;
+ }
+
+ a {
+    text-decoration: none; /* retira o sublinhado dos links */
+    color: #BB99DD;
+ }
+
+.icon {
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
